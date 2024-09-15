@@ -10,3 +10,5 @@ Document the expansion of the mine: Track the year-by-year growth of the Cerrej√
 Assess the impact on local communities: Identify areas where communities were forcibly relocated or affected by the mine's expansion.
 Monitor vegetation and water resources: Analyze changes in vegetation cover and water quality, particularly in areas where the mine has privatized and contaminated water resources.
 Highlight environmental and social concerns: Raise awareness about the environmental and social consequences of the mine's expansion, including deforestation, water pollution, and human rights abuses.
+
+This is an ongoing project.
